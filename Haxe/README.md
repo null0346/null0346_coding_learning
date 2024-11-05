@@ -1,4 +1,4 @@
-# Haxe + HaxeFlixel
-This is my folder for learning Haxe and HaxeFlixel.
+# Haxe
+This is my folder for learning Haxe.
 
-I'm learning Haxe and HaxeFlixel for better understanding of how to make a Psych Engine fork.
+I'm learning Haxe and for better understanding of how to make a Psych Engine fork.

@@ -1,5 +1,7 @@
 class Main {
 	static function main() {
-		trace("Hello, world!");
+		var fuck = 574;
+
+		trace("Hello, world! " + fuck);
 	}
 }
